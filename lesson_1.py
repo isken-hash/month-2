@@ -16,5 +16,3 @@ print(car_subaru)
 
 
 
-
-
